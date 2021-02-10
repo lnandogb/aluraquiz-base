@@ -1,33 +1,73 @@
 {
     "bg": "https://4kwallpaper.wiki/wp-content/uploads/2019/09/298296-1.jpg",
+    "logo": "https://www.pikpng.com/pngl/b/294-2942489_skyrim-transparent-clear-elder-scrolls-v-skyrim-logo.png",
     "title": "Quiz CSS da Alura",
     "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
-        "answer": 2,
+        "image": "https://media1.tenor.com/images/4ee92efa37f9fce197c340a008c7752e/tenor.gif?itemid=4536248",
+        "title": "De que outra maneira o DragonBorn é chamado?",
+        "description": "",
+        "answer": 1,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Dragon Slayer",
+          "Dovahkiin",
+          "Dragon Killer",
+          "Pelo nome escolhido pelo jogador"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://media.giphy.com/media/H6hZOdTjKfQWX2IR20/giphy.gif",
+        "title": "Qual é a raça do personagem da imagem?",
+        "description": "",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+          "Khajiit",
+          "Imperial",
+          "Bretão",
+          "Argoniano"
+        ]
+      },
+      {
+        "image": "https://i.pinimg.com/originals/c5/9d/db/c59ddb0c8f1e10b17cc5baf134879b9c.gif",
+        "title": "A imagem mostra a entrada do esconderijo de qual guilda?",
+        "description": "",
+        "answer": 3,
+        "alternatives": [
+          "Companions",
+          "Stormcloaks",
+          "Nightingales",
+          "Dark Brotherhood"
+        ]
+      },
+      {
+        "image": "https://i.makeagif.com/media/7-11-2016/ItyO-t.gif",
+        "title": "Eu costumava ser um aventureiro como você até...",
+        "description": "",
+        "answer": 2,
+        "alternatives": [
+          "Levar uma espadada no ombro",
+          "Perder um dedo",
+          "Levar uma flechada no joelho",
+          "Quebrar o pé"
+        ]
+      },
+      {
+        "image": "https://thumbs.gfycat.com/FlatKaleidoscopicHeron.webp",
+        "title": "O que o DragonBorn diz ao usar o shout Unrelenting Force?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+          "Sonic Boom",
+          "Fus-Ro-Dah",
+          "Aaaaaah!",
+          "Hey, Listen!"
         ]
       }
     ],
     "external": [
-      ""
+      "https://aluraquiz-css.omariosouto.vercel.app/",
+      "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
     ],
     "theme": {
       "colors": {
